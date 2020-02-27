@@ -87,3 +87,5 @@ https://cbalaman.herokuapp.com/ | https://git.heroku.com/cbalaman.git
 | Dinero | http://vincedinero.herokuapp.com/ |
 | Umbukan | http://umbukanmer.herokuapp.com/ |
 | Alpas | http://galpas.herokuapp.com/ |
+| Banluta | http://cbanluta.herokuapp.com/ |
+| Villarubia | http://rvillarubia.herokuapp.com/ |
